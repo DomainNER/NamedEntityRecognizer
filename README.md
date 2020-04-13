@@ -1,2 +1,2 @@
-# NER For FIFA World Cup 2018
-This project is going to be developed as part of the completion of the Computational Linguistics-I course, IIIT-Hyderabad (2020). The intent is to build a Named Entity Recogniser for the domain: FIFA World Cup 2018.
+#Comparitive study into NER using various methods, in the domain of Sports, by Chaudhary, Goel and Thomas.
+Specific domain chosen is Tweets related to FIFA 2018.
