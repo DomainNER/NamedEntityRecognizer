@@ -11,7 +11,7 @@ The code and required annotated dataset for 530k Tweets on FIFA World Cup 2018. 
 
 ## Codes:
 The codes for deep learning.
-The NER.ipynb is the complete notebook
+The NER.ipynb is the complete notebook.  
 The NER_deep_learning.ipynb only has the deep learning part for quick experimentation and additions.
 
 ## References:
