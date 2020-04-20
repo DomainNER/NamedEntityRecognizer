@@ -9,10 +9,10 @@ There are 530k Tweets related to FIFA World Cup 2018.
 ## Annotated Dataset:
 The code and required annotated dataset for 530k Tweets on FIFA World Cup 2018. The dataset has each of them POS tagged, and also tagged by NER.
 
-## Codes:
-The codes for deep learning.
-The NER.ipynb is the complete notebook.  
-The NER_deep_learning.ipynb only has the deep learning part for quick experimentation and additions.
+## Approaches:
+### Deep Learning
+NER.ipynb is the complete notebook.  
+NER_deep_learning.ipynb only has the deep learning part for quick experimentation and additions.
 
-## References:
+## References & Data Sources:
 The related research papers and sources for the datasets.
