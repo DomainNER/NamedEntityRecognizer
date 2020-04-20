@@ -1,6 +1,13 @@
-<h3>Comparitive study into NER using various methods, in the domain of Sports.</h3>
-Specific domain chosen is Tweets related to FIFA 2018.<br>
+# Domain Entity Identification
+The specific domain chosen is "Tweets Related to FIFA World Cup 2018".
+The aim is to compare different techniques in Named Entity Recognition for the domain.
 
-<h4>Data:</h4>
-The data is stored in the Datasets folder as datasets.csv.zip. The code is also present in the folder.
-There are 530k Tweets related to FIFA World Cup 2018. The dataset has each of them POS tagged, and also tagged by NER.
+## Dataset:
+The zipped dataset alongwith the datasets used for annotating.
+There are 530k Tweets related to FIFA World Cup 2018.
+
+## Annotated Dataset:
+The code and required annotated dataset for 530k Tweets on FIFA World Cup 2018. The dataset has each of them POS tagged, and also tagged by NER.
+
+## References:
+The related research papers and sources for the datasets.
