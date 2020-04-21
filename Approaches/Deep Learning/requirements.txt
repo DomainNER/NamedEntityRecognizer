@@ -5,3 +5,5 @@ numpy
 matplotlib
 sklearn
 tensorflow
+keras
+keras_contrib
