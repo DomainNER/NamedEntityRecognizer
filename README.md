@@ -15,9 +15,9 @@ The code for checking the accuracy of the different NER models.
 ## Approaches:
 The codes for several different approaches in Named Entity Recognition.  
 ### Pure POS Approach
-Naive approach of NER to simply POS(Part-Of-Speech) tag and if the tag is NNP, a proper noun, it is tagged as a named entity.  
+Naive approach to simply POS(Part-Of-Speech) tag and if the tag is NNP, a proper noun, it is tagged as a named entity.  
 ### NLTK Approach
-Directly use NLTK to find named entities.  
+Directly uses NLTK to find named entities.  
 The extracted named entities for the dataset is given in compressed form.  
 ### n-gram Frequency
 The n-gram frequency approach extracts the frequent n-grams which are nouns.  
