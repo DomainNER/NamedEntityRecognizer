@@ -1,3 +1,5 @@
+<h3> Requirements </h3>
+<ul>
 nltk
 csv
 pandas
@@ -7,3 +9,4 @@ sklearn
 tensorflow
 keras
 keras_contrib
+</ul>
